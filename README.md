@@ -65,21 +65,9 @@ Os aplicativos do **Linuxpert Apps** poderão ser disponibilizados em diferentes
 
 <br>
 
-## ⬇️ Baixar aplicativos
-
-Você pode baixar os aplicativos do **Linuxpert Apps** pelo site oficial ou pela aba **Releases** deste repositório no GitHub.
-
-### 🌐 Site oficial
-
-Acesse:
-
-**https://www.linuxpert.com.br/**
-
-No site, escolha o aplicativo desejado e clique em **Baixar**.
-
 ### 📦 GitHub Releases
 
-Também é possível baixar os arquivos diretamente pela aba **Releases** deste repositório.
+Também será possível no futuro baixar os arquivos diretamente pela aba **Releases** deste repositório.
 
 Para pacotes `.deb`, instale com:
 
