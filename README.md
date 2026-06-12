@@ -1,26 +1,35 @@
 # 🐧 Linuxpert Apps
 
-**Aplicativos modernos, simples e úteis para Linux**, criados por **Jonatan Luiz Gouvea**, do canal **Linuxpert**.
+<p align="center">
+  <strong>Aplicativos modernos, simples e úteis para Linux</strong><br>
+  Criados por <strong>Jonatan Luiz Gouvea</strong>, do canal <strong>Linuxpert</strong>.
+</p>
 
-O **Linuxpert Apps** reúne ferramentas feitas para facilitar tarefas do dia a dia, melhorar a experiência no sistema e tornar o **Linux mais prático, acessível e amigável para todos**.
+<p align="center">
+  <a href="https://www.linuxpert.com.br/">🌐 Site oficial</a> •
+  <a href="https://youtube.com/channel/UCQn7aGarXKmLre37QuVN-3w/">▶️ YouTube</a> •
+  <a href="https://chat.whatsapp.com/JJgyuPqjNnwGPAN3EixTHN">💬 Comunidade</a>
+</p>
 
----
+<br>
 
 ## ✨ Sobre o projeto
 
-O objetivo do **Linuxpert Apps** é oferecer programas com interface visual, simples de usar e pensados para resolver problemas reais no Linux.
+O **Linuxpert Apps** é uma coleção de ferramentas criadas para facilitar tarefas do dia a dia, melhorar a experiência no sistema e tornar o **Linux mais prático, acessível e amigável para todos**.
 
-Aqui você encontra ferramentas para conversão de arquivos, limpeza do sistema, gerenciamento de boot, instalação de pacotes, AppImages, drivers, ajustes do sistema e muito mais.
+Os aplicativos são pensados para usuários que querem resolver tarefas comuns de forma visual, simples e direta, sem depender tanto do terminal.
 
-Tudo com foco em:
+<br>
 
-- ✅ Simplicidade
-- ✅ Praticidade
-- ✅ Visual moderno
-- ✅ Facilidade para iniciantes
-- ✅ Utilidade no uso real do Linux
+## 💙 Principais objetivos
 
----
+- ✅ Facilitar o uso do Linux no dia a dia
+- ✅ Oferecer programas com interface simples e moderna
+- ✅ Ajudar iniciantes e usuários avançados
+- ✅ Resolver tarefas comuns com poucos cliques
+- ✅ Tornar o Linux mais prático e acessível
+
+<br>
 
 ## 🚀 Principais aplicativos
 
@@ -43,7 +52,18 @@ Tudo com foco em:
 | **USB Format** | Formata pendrives com facilidade |
 | **Atualizador do Sistema** | Facilita atualizações do Linux |
 
----
+<br>
+
+## 📦 Formatos disponíveis
+
+Os aplicativos do **Linuxpert Apps** poderão ser disponibilizados em diferentes formatos, facilitando o uso em várias distribuições Linux.
+
+| Formato | Descrição |
+|---|---|
+| **.deb** | Pacote para Debian, Ubuntu, Linux Mint, Zorin OS, Pop!_OS, KDE neon e derivados |
+| **AppImage** | Formato portátil que pode rodar em várias distribuições Linux sem instalação tradicional |
+
+<br>
 
 ## ⬇️ Baixar aplicativos
 
@@ -59,21 +79,44 @@ No site, escolha o aplicativo desejado e clique em **Baixar**.
 
 ### 📦 GitHub Releases
 
-Também é possível baixar os pacotes diretamente pela aba **Releases** deste repositório.
+Também é possível baixar os arquivos diretamente pela aba **Releases** deste repositório.
 
-Após baixar o pacote `.deb`, instale com:
+Para pacotes `.deb`, instale com:
 
 ```bash
 sudo apt install ./nome-do-pacote.deb
 ```
 
-Depois da instalação, procure o aplicativo no menu do sistema.
+Para arquivos `AppImage`, dê permissão de execução:
 
----
+```bash
+chmod +x nome-do-app.AppImage
+./nome-do-app.AppImage
+```
+
+Depois disso, procure o aplicativo no menu do sistema ou execute o arquivo AppImage diretamente.
+
+<br>
+
+## 🖥️ Compatibilidade
+
+Os aplicativos são pensados principalmente para distribuições Linux baseadas em **Debian**, **Ubuntu** e derivados.
+
+Exemplos:
+
+- Debian
+- Ubuntu
+- Linux Mint
+- Zorin OS
+- Pop!_OS
+- KDE neon
+- Outras distribuições compatíveis com `.deb` ou `AppImage`
+
+<br>
 
 ## 💙 Para quem é o Linuxpert Apps?
 
-O **Linuxpert Apps** foi criado para quem quer usar o Linux de forma mais simples, sem complicação e sem depender tanto do terminal.
+O **Linuxpert Apps** foi criado para quem quer usar o Linux de forma mais simples, bonita e prática.
 
 É ideal para:
 
@@ -84,24 +127,7 @@ O **Linuxpert Apps** foi criado para quem quer usar o Linux de forma mais simple
 - Usuários que gostam de praticidade
 - Quem quer ferramentas visuais para tarefas comuns
 
----
-
-## 🖥️ Compatibilidade
-
-Os aplicativos são pensados para distribuições Linux baseadas em **Debian**, **Ubuntu** e derivados.
-
-Exemplos:
-
-- Debian
-- Ubuntu
-- Linux Mint
-- Zorin OS
-- Pop!_OS
-- KDE neon
-- BigLinux
-- Outras distribuições compatíveis
-
----
+<br>
 
 ## 🔗 Links oficiais
 
@@ -110,7 +136,7 @@ Exemplos:
 - 💬 **Comunidade no WhatsApp:** https://chat.whatsapp.com/JJgyuPqjNnwGPAN3EixTHN
 - ⭐ **Seja membro do canal:** https://www.youtube.com/channel/UCQn7aGarXKmLre37QuVN-3w/join
 
----
+<br>
 
 ## 👨‍💻 Criador
 
@@ -119,7 +145,7 @@ Canal **Linuxpert**
 
 Desenvolvido com foco em tornar o Linux mais simples, bonito e prático para todos.
 
----
+<br>
 
 ## 📜 Licença
 
@@ -131,8 +157,9 @@ Link oficial da licença:
 
 **https://mozilla.org/MPL/2.0/**
 
----
+<br>
 
-## 🐧 Linuxpert Apps
-
-**Ferramentas modernas para deixar o Linux mais fácil, prático e acessível.**
+<p align="center">
+  <strong>🐧 Linuxpert Apps</strong><br>
+  Ferramentas modernas para deixar o Linux mais fácil, prático e acessível.
+</p>
